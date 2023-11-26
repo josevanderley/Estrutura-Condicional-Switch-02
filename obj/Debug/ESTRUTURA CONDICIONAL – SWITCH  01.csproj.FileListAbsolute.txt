@@ -1,0 +1,8 @@
+C:\Users\Ornare\source\repos\ESTRUTURA CONDICIONAL – SWITCH  01\bin\Debug\ESTRUTURA CONDICIONAL – SWITCH  01.exe.config
+C:\Users\Ornare\source\repos\ESTRUTURA CONDICIONAL – SWITCH  01\bin\Debug\ESTRUTURA CONDICIONAL – SWITCH  01.exe
+C:\Users\Ornare\source\repos\ESTRUTURA CONDICIONAL – SWITCH  01\bin\Debug\ESTRUTURA CONDICIONAL – SWITCH  01.pdb
+C:\Users\Ornare\source\repos\ESTRUTURA CONDICIONAL – SWITCH  01\obj\Debug\ESTRUTURA CONDICIONAL – SWITCH  01.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\ESTRUTURA CONDICIONAL – SWITCH  01\obj\Debug\ESTRUTURA CONDICIONAL – SWITCH  01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ornare\source\repos\ESTRUTURA CONDICIONAL – SWITCH  01\obj\Debug\ESTRUTURA CONDICIONAL – SWITCH  01.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\ESTRUTURA CONDICIONAL – SWITCH  01\obj\Debug\ESTRUTURA CONDICIONAL – SWITCH  01.exe
+C:\Users\Ornare\source\repos\ESTRUTURA CONDICIONAL – SWITCH  01\obj\Debug\ESTRUTURA CONDICIONAL – SWITCH  01.pdb
